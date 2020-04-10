@@ -1,2 +1,2 @@
-# PrzetwarzanieR-wnoleg-e
+# Parallel Processing
 PUT repository
